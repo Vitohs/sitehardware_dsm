@@ -1,0 +1,31 @@
+body{
+    background-color: lightsteelblue;
+}
+
+div{
+    background-color: white;
+    margin: 20px;
+    border: 2px solid black;
+    padding: 80px;
+    text-align: left;
+}
+
+.input{
+    width: 50%; border: 2px outset; padding: 10px; 
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    
+}
+
+.botao{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    
+}
+
+h1{
+    color: navy;
+}
